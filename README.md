@@ -1,4 +1,3 @@
-give me discruption abot the file Understanding_DATA on this dataset
 The Understanding_DATA file provides a comprehensive overview of the dataset you're working with. Here's a summary of the key points:
 
 Data Import and Initial Exploration:
